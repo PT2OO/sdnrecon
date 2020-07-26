@@ -25,6 +25,8 @@ Sdnrecon requires the following software...
     - tabulate
     - XlsxWriter
     - xlrd
+  From github:
+    - python-openflow-legacy (Older version of Kytos OpenFlow library)
 ```
 
 ### Installing
@@ -38,6 +40,15 @@ Then,
 
 ```
 pip3 install ipcalc,netifaces,numpy,pandas,pyshark,python-openflow,scapy,scipy,tabulate,XlsxWriter,xlrd
+
+cd sdnrecon/sdnpwn
+mkdir lib
+cd lib
+git clone https://github.com/smythtech/python-openflow-legacy
+cd python-openflow-legacy
+chmod +x setup.py
+sudo python3 setup.py install
+
 ```
 
 

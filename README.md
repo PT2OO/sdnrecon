@@ -33,7 +33,7 @@ Sdnrecon requires the following software...
 
 First download sdnrecon using git
 ```
-git clone https://github.com/binzii/sdnrecon.git
+git clone https://github.com/phutr4n/sdnrecon.git
 ```
 
 Then,

@@ -1,0 +1,4 @@
+endpoints:[{name:"ledn-api",endpoint:"https://platform.ledn.io/api",region:"us-east-1"},{name:"ledn-p2p-api",endpoint:"https://api.ledn.io/p2p",region:"us-east-1"},{name:"ledn-fiat-api",endpoint:"https://platform.ledn.io/fiat-ramps",region:"us-east-1"},{name:"ledn-plaid-api",endpoint:"https://platform.ledn.io/plaid",region:"us-east-1"}],auth:{mandatorySignIn:!1,region:"us-east-1",userPoolId:"us-east-1_ie0BzhfXl",identityPoolId:"us-east-1:c650a055-197a-45b8-b626-8ce3386f313c",userPoolWebClientId:"6t7l7iu3di3mt539dm2bge2ja8",authenticationFlowType:"USER_PASSWORD_AUTH"},storage:{bucket:"ledn-api-common-prod-kyc-temp-bucket",region:"us-east-1",identityPoolId:"us-east-1:c650a055-197a-45b8-b626-8ce3386f313c"}
+
+AIzaSyBW_KjSYwOceoBEe40GXB-YcHV1Su5Y-eA
+cashnexus-2ca4c.firebaseapp.com
